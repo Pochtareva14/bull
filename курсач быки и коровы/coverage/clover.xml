@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1715791286326" clover="3.2.0">
+  <project timestamp="1715791286326" name="All files">
+    <metrics statements="59" coveredstatements="31" conditionals="30" coveredconditionals="20" methods="8" coveredmethods="3" elements="97" coveredelements="54" complexity="0" loc="59" ncloc="59" packages="1" files="1" classes="1"/>
+    <file name="qw.js" path="/Users/anastasia14/Desktop/быки и коровы/курсач быки и коровы/qw.js">
+      <metrics statements="59" coveredstatements="31" conditionals="30" coveredconditionals="20" methods="8" coveredmethods="3"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="99" type="stmt"/>
+      <line num="17" count="9801" type="stmt"/>
+      <line num="18" count="9801" type="cond" truecount="5" falsecount="0"/>
+      <line num="19" count="1728" type="stmt"/>
+      <line num="23" count="9801" type="stmt"/>
+      <line num="24" count="9801" type="cond" truecount="4" falsecount="0"/>
+      <line num="25" count="757" type="stmt"/>
+      <line num="29" count="9801" type="stmt"/>
+      <line num="30" count="9801" type="cond" truecount="5" falsecount="0"/>
+      <line num="31" count="632" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="39" count="95" type="cond" truecount="2" falsecount="0"/>
+      <line num="40" count="23" type="stmt"/>
+      <line num="41" count="23" type="stmt"/>
+      <line num="42" count="880" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="50" count="9998" type="cond" truecount="2" falsecount="0"/>
+      <line num="51" count="1229" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="62" count="1229" type="cond" truecount="2" falsecount="0"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="69" count="0" type="stmt"/>
+      <line num="70" count="0" type="stmt"/>
+      <line num="72" count="0" type="stmt"/>
+      <line num="73" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="74" count="0" type="stmt"/>
+      <line num="75" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="76" count="0" type="stmt"/>
+      <line num="80" count="0" type="stmt"/>
+      <line num="85" count="0" type="stmt"/>
+      <line num="86" count="0" type="stmt"/>
+      <line num="89" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="90" count="0" type="stmt"/>
+      <line num="91" count="0" type="stmt"/>
+      <line num="94" count="0" type="stmt"/>
+      <line num="95" count="0" type="stmt"/>
+      <line num="98" count="0" type="stmt"/>
+      <line num="101" count="0" type="stmt"/>
+      <line num="103" count="0" type="stmt"/>
+      <line num="106" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="108" count="0" type="stmt"/>
+      <line num="109" count="0" type="stmt"/>
+      <line num="115" count="0" type="stmt"/>
+      <line num="116" count="0" type="stmt"/>
+      <line num="117" count="0" type="stmt"/>
+      <line num="125" count="1" type="stmt"/>
+      <line num="126" count="0" type="stmt"/>
+      <line num="127" count="0" type="stmt"/>
+      <line num="128" count="0" type="stmt"/>
+      <line num="129" count="0" type="stmt"/>
+      <line num="132" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

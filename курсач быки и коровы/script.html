@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>Игра "Быки и коровы"</title>
+</head>
+<body>
+<main>
+  <h1>"Быки и коровы"</h1>
+  <section class="game">
+    <h2>Игровой раздел</h2>
+    <div class="input-section">
+      <label for="guess">Введите догадку:</label>
+      <input type="text" id="guess" placeholder="Введите 4-значное число" maxlength="4" pattern="\d{4}">
+      <button onclick="handleGuess()">Отправить</button>
+    </div>
+    <div class="history">
+      <h3>История догадок</h3>
+      <textarea id="history" readonly></textarea>
+    </div>
+    <div class="reset">
+      <button onclick="resetGame()">Начать заново</button>
+    </div>
+  </section>
+</main>
+<script src="qw.js"></script>
+</body>
+</html>
